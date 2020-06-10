@@ -1,8 +1,8 @@
 # Product Advertising API 5.0 SDK for PHP
 
-[![Version](https://img.shields.io/packagist/v/amzn/paapi5-php-sdk)](https://img.shields.io/packagist/v/amzn/paapi5-php-sdk) 
+[![Version](https://img.shields.io/packagist/v/libreja/paapi5-php-sdk)](https://img.shields.io/packagist/v/libreja/paapi5-php-sdk) 
 
-[![Total Downloads](https://img.shields.io/packagist/dt/amzn/paapi5-php-sdk.svg?style=flat)](https://packagist.org/packages/amzn/paapi5-php-sdk)
+[![Total Downloads](https://img.shields.io/packagist/dt/libreja/paapi5-php-sdk.svg?style=flat)](https://packagist.org/packages/libreja/paapi5-php-sdk)
 
 This repository contains the open source PHP SDK that allows you to access the [Product Advertising API](https://webservices.amazon.com/paapi5/documentation/index.html) from your PHP app.
 
